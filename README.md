@@ -73,13 +73,16 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>
 
-###
-[![Spotify](https://novatorem-ten-azure.vercel.app/api/spotify)](https://open.spotify.com/user/jota5untuikweldyb0um3mdop)
 
 ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/xChiat/xChiat/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+[![Spotify](https://novatorem-ten-azure.vercel.app/api/spotify)](https://open.spotify.com/user/jota5untuikweldyb0um3mdop)
 
 ###
