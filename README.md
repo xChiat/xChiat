@@ -82,7 +82,6 @@
 
 ###
 
-
 [![Spotify](https://novatorem-e86lo1rep-xchiats-projects.vercel.app/api/spotify)](https://open.spotify.com/user/jota5untuikweldyb0um3mdop)
 
 ###
