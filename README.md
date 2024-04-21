@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is cris and I'm a computer engineering student.</h2>
-
 ###
 
 <div align="center">
@@ -15,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="https://dragon.img2go.com/es/download-file/ce1e02b4-4722-4ece-802a-94da5cdbb28c/bd89dc02-3514-4f5c-bf88-ca844c293779"  />
+<img align="right" height="150" src="https://www.pinterest.cl/pin/392094711324928792/"  />
 
 ###
 
