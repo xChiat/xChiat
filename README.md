@@ -74,6 +74,9 @@
 </div>
 
 ###
+[![Spotify](https://novatorem-ten-azure.vercel.app/api/spotify)](https://open.spotify.com/user/jota5untuikweldyb0um3mdop)
+
+###
 
 <br clear="both">
 
