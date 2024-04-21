@@ -82,6 +82,6 @@
 
 ###
 
-[![Spotify](https://https://novatorem-e86lo1rep-xchiats-projects.vercel.app/api/spotify()
+[![Spotify](https://novatorem-six-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 ###
