@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="/gift/encabesado">
+  <img height="200" src="/gift/encabesado.jpg">
 </div>
 
 ###
