@@ -1,5 +1,5 @@
 <picture>
- <img alt="YOUR-ALT-TEXT" src="gift/explocionGif.gif">
+ <img alt="YOUR-ALT-TEXT" src="gift/redForest.gif">
 </picture>
 
 ## About me
@@ -21,7 +21,3 @@
 |     4| C#        |
 
 </details>
-
-<picture>
- <img alt="YOUR-ALT-TEXT" src="gift/redForest.gif">
-</picture>
