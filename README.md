@@ -10,17 +10,15 @@
 > 𝔽𝕌ℂ𝕂 𝕒𝕟 𝔸ℙ𝕆𝕃𝕆𝔾𝕐, 𝕀'𝕞 ℕ𝕆𝕋 𝕊𝕆ℝℝ𝕐 𝕗𝕠𝕣 𝕒𝕟𝕪𝕥𝕙𝕚𝕟𝕘
 ---
 
-<details>
-<summary>My top languages</summary>
+### Skills
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Python    |
-|     2| Java      |
-|     3| Javascript|
-|     4| C#        |
+| Rank | Languages | Frameworks | Libraries  | Code Quality |
+|-----:|-----------|------------|------------|--------------|
+|     1| Python    | React      | Pandas     | SonarQube    |
+|     2| Java      | Django     | Numpy      | PMD          |
+|     3| Javascript| Spring     | Tensorflow | Pylint       |
+|     4| C#        | hibernate  | JavaFx     | Jmeter       |
 
-</details>
 <picture>
  <img alt="YOUR-ALT-TEXT" src="gift/redForest.gif">
 </picture>
