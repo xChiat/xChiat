@@ -12,12 +12,12 @@
 
 ### 𝚂𝚔𝚒𝚕𝚕𝚜
 
-| Rank | Languages | Frameworks | Libraries  | Code Quality |
-|-----:|-----------|------------|------------|--------------|
-|     1| Python    | React      | Pandas     | SonarQube    |
-|     2| Java      | Django     | Numpy      | PMD          |
-|     3| Javascript| Spring     | Tensorflow | Pylint       |
-|     4| C#        | hibernate  | JavaFx     | Jmeter       |
+| Languages | Frameworks | Libraries  | Code Quality |
+|-----------|------------|------------|--------------|
+| Python    | React      | Pandas     | SonarQube    |
+| Java      | Django     | Numpy      | PMD          |
+| Javascript| Spring     | Tensorflow | Pylint       |
+| C#        | hibernate  | JavaFx     | Jmeter       |
 
 ---
 
