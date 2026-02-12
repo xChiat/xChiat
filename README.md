@@ -15,14 +15,15 @@
 | Languages | Frameworks | Libraries  | Code Quality |
 |-----------|------------|------------|--------------|
 | Python    | React      | Pandas     | SonarQube    |
-| Java      | Django     | Numpy      | PMD          |
+| Java      | Django     | Numpy      |
+ PMD          |
 | Javascript| Spring     | Tensorflow | Pylint       |
 | C#        | hibernate  | JavaFx     | Jmeter       |
 
 ---
 
 <picture>
- <img alt="YOUR-ALT-TEXT" src="aws-certified-cloud-practitioner.png">
+ <img alt="YOUR-ALT-TEXT" src="gift/aws-certified-cloud-practitioner.png">
 </picture>
 
 ---
