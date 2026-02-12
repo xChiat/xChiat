@@ -22,7 +22,7 @@
 ---
 
 <picture>
- <img alt="YOUR-ALT-TEXT" src="gift/aws-academy-graduate-aws-academy-cloud-foundations.png">
+ <img alt="YOUR-ALT-TEXT" src="aws-certified-cloud-practitioner.png">
 </picture>
 
 ---
