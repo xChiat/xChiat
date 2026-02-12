@@ -23,7 +23,7 @@
 ---
 
 <picture>
- <img alt="YOUR-ALT-TEXT" src="gift/aws-certified-cloud-practitioner.png">
+ <img alt="YOUR-ALT-TEXT" src="">
 </picture>
 
 ---
