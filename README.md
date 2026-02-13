@@ -92,21 +92,24 @@
 <div align="center">
 
 <a href="https://github.com/xChiat/invoice-rpa-bot-python">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xChiat&repo=invoice-rpa-bot-python&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79[...]" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xChiat&repo=invoice-rpa-bot-python&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&ico[...]" />
 </a>
 <a href="https://github.com/xChiat/Haptivoice">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xChiat&repo=Haptivoice&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_colo[...]" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xChiat&repo=Haptivoice&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79[...]" />
 </a>
-
 <a href="https://github.com/xChiat/INSPIRABOARD">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xChiat&repo=INSPIRABOARD&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_col[...]" />
-</a>
-<a href="https://github.com/xChiat/SafeEnviroment">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xChiat&repo=SafeEnviroment&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_c[...]" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xChiat&repo=INSPIRABOARD&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff[...]" />
 </a>
 
+</div>
+
+<div align="center">
+
+<a href="https://github.com/xChiat/SafeEnviroment">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xChiat&repo=SafeEnviroment&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=[...]" />
+</a>
 <a href="https://github.com/xChiat/Redes-Neuronales">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xChiat&repo=Redes-Neuronales&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text[...]" />
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xChiat&repo=Redes-Neuronales&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_colo[...]" />
 </a>
 
 </div>
