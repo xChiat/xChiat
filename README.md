@@ -113,6 +113,8 @@
     </a>
 </div>
 
+<br>
+
 <details>
 <summary><b>📦 Project Highlights</b></summary>
 <br/>
