@@ -140,13 +140,20 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=xChiat&theme=radical&hide_border=true&background=0d1117&stroke=ff79c6&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" [...]/>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=xChiat&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=fff[...]" />
+    <img width=412 src="https://github-readme-streak-stats.herokuapp.com/?user=xChiat&theme=react&border_radius=10" [...]/>
+    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=xChiat&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
+<br>
+
 <div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xChiat&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=ffffff" />
-    <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=xChiat&theme=github-compact&hide_border=true&bg_color=0d1117&color=ff79c6&line=ff79c6&point=ffffff" />
+    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br>
+
+<div align="center">
+    <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=xChiat&theme=react&border_radius=10" />
 </div>
 
 ---
