@@ -38,6 +38,7 @@
 ```
 
 🔥 Building shit that actually works  
+
 🎯 Automating the boring stuff  
 🚀 IoT, AI/ML, Mobile & Web Development  
 💬 Talk to me about tech, automation, or nothing at all
@@ -186,7 +187,7 @@
 
 ### 🎤 Random Kanye Quote
 
-<img src="https://kanye-quote-generator-silk.vercel.app/?theme=yeezus" alt="Kanye Quote"/>
+<img src="https://kanye-quote-generator-silk.vercel.app/?theme=react" alt="Kanye Quote"/>
 
 </div>
 
