@@ -157,8 +157,8 @@
 <div align="center">
 
 <!-- Certificaciones - Dimensiones recomendadas: 200x150px cada una -->
-<a href="assets/aws-cloud-practitioner.png">
-    <img src="assets/aws-cloud-practitioner.png" width="200" alt="AWS Certified Cloud Practitioner"/>
+<a href="(https://www.credly.com/badges/88564c02-5199-41db-90ae-9805e11cc1c8/public_url)">
+    <img src="gift/aws-certified-cloud-practitioner.png" width="150" alt="AWS Certified Cloud Practitioner"/>
 </a>
 
 <!-- Agrega más certificaciones aquí con el mismo formato -->
