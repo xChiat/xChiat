@@ -4,7 +4,8 @@
 
 <p align="center">
     <!-- Aquí va tu GIF de explosión - Dimensiones recomendadas: 600x400px o similar -->
-    <img src="gift/explocionGif.gif" alt="explosion" width="600"/>
+    <img src="gift/explocionGif.gif" alt
+="explosion" width="600"/>
 </p>
 
 <div align="center">
@@ -140,7 +141,7 @@
 <br>
 
 <div align="center">
-    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=xChiat&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br>
