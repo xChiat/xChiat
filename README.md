@@ -25,14 +25,14 @@
 
 ```diff
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@                                                   @@
-@@  𝙏𝙃𝙀 𝙂𝙊𝘼𝙏 🐐                                       @@
-@@  Young programmer, self-taught hustler          @@
-@@  𝙐𝙉𝙄𝙑𝙀𝙍𝙎𝙄𝙏𝙔 𝙞𝙨 𝙨𝙤 𝙁𝙐𝘾𝙆𝙄𝙉𝙂 𝙀𝘼𝙎𝙔              @@
-@@                                                   @@
-@@  > 𝔽𝕌ℂ𝕂 𝕒𝕟 𝔸ℙ𝕆𝕃𝕆𝔾𝕐,                              @@
-@@  > 𝕀'𝕞 ℕ𝕆𝕋 𝕊𝕆ℝℝ𝕐 𝕗𝕠𝕣 𝕒𝕟𝕪𝕥𝕙𝕚𝕟𝕘                  @@
-@@                                                   @@
+@@                                                  @@
+@@  𝙏𝙃𝙀 𝙂𝙊𝘼𝙏 🐐                                   @@
+@@  Young programmer, self-taught hustler           @@
+@@  𝙐𝙉𝙄𝙑𝙀𝙍𝙎𝙄𝙏𝙔 𝙞𝙨 𝙨𝙤 𝙁𝙐𝘾𝙆𝙄𝙉𝙂 𝙀𝘼𝙎𝙔                  @@
+@@                                                  @@
+@@  > 𝔽𝕌ℂ𝕂 𝕒𝕟 𝔸ℙ𝕆𝕃𝕆𝔾𝕐,                           @@
+@@  > 𝕀'𝕞 ℕ𝕆𝕋 𝕊𝕆ℝℝ𝕐 𝕗𝕠𝕣 𝕒𝕟𝕪𝕥𝕙𝕚𝕟𝕘                 @@
+@@                                                  @@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ```
 
@@ -97,17 +97,22 @@
 <a href="https://github.com/xChiat/Haptivoice">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xChiat&repo=Haptivoice&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79[...]" />
 </a>
+
+</div>
+
+<div align="center">
+
 <a href="https://github.com/xChiat/INSPIRABOARD">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xChiat&repo=INSPIRABOARD&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff[...]" />
+</a>
+<a href="https://github.com/xChiat/SafeEnviroment">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xChiat&repo=SafeEnviroment&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=[...]" />
 </a>
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/xChiat/SafeEnviroment">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xChiat&repo=SafeEnviroment&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=[...]" />
-</a>
 <a href="https://github.com/xChiat/Redes-Neuronales">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xChiat&repo=Redes-Neuronales&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_colo[...]" />
 </a>
@@ -172,7 +177,7 @@
 
 ### 🎤 Random Kanye Quote
 
-<img src="https://api.kanye.rest/text" />
+![Kanye Quote](https://api.kanye.rest/?text=kanye-quote)
 
 </div>
 
