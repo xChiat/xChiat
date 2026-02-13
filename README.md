@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=THE+GOAT+🐐;Self-Taught+Developer;University+is+FUCKING+EASY;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=730&height=70&duration=4000&lines=GIVE+A+MAN+PLANE+TICKET;AND+HE´LL+FLY+FOR+A+DAY;PUSH+A+MAN+OUT+OF+THE+PLANE;AND+HE´LL+FLY+FOR+THE+REST+OF+HIS+LIFE;" />
 </h1>
 
 <p align="center">
