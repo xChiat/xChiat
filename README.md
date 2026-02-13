@@ -64,6 +64,7 @@
 **Data Science & AI/ML**
 
 <!-- Iconos personalizados - Dimensiones: 48x48px cada uno -->
+
 <img src="assets/pandas.png" height="48" alt="Pandas"/>&nbsp;&nbsp;
 <img src="assets/numpy.png" height="48" alt="Numpy"/>&nbsp;&nbsp;
 <img src="assets/tensorflow.png" height="48" alt="TensorFlow"/>&nbsp;&nbsp;
@@ -111,6 +112,9 @@
     <a href="https://github.com/xChiat/Redes-Neuronales">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xChiat&repo=Redes-Neuronales&theme=react&border_radius=10" />
     </a>
+    <a href="https://github.com/xChiat/kanye-quote-generator">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xChiat&repo=kanye-quote-generator&theme=react&border_radius=10" />
+    </a>
 </div>
 
 <br>
@@ -128,6 +132,8 @@
 **🏠 Safe Environment** - IoT-powered mobile app monitoring temperature, humidity, gases, and noise levels. Focused on elderly care and environmental safety.
 
 **🧠 Redes Neuronales** - Collection of data mining, neural networks, data analysis and EDA projects. My playground for ML experiments.
+
+**🎤 Kanye quote generator** - A serverless API that generates random Kanye West quotes as images, perfect for GitHub READMEs.
 
 </details>
 
@@ -180,7 +186,7 @@
 
 ### 🎤 Random Kanye Quote
 
-![Kanye Quote](https://api.kanye.rest/?text=kanye-quote)
+<img src="https://kanye-quote-generator-silk.vercel.app/?theme=yeezus" alt="Kanye Quote"/>
 
 </div>
 
