@@ -155,10 +155,6 @@
 
 <br>
 
-<div align="center">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xChiat&theme=react&border_radius=10" />
-</div>
-
 ---
 
 <h2 align="center">🏆 Certifications & Achievements 🏆</h2>
